@@ -7,8 +7,8 @@ int main(int argc, char **argv)
 	printf("   ***\n");
 	printf("  *****\n");
 	printf(" *******\n");
-	printf(" HHHHHHH\n" );
-	printf(" ZZZZZZZ\n");
+	printf("  HHOHH\n" );
+	printf("  ZZZZZ\n");
 	return 0;
 }
 
